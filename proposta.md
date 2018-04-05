@@ -4,6 +4,7 @@
 Página de referência de funcionalidades de
 [WEvent](https://wevent.com.br). 
 
+Proposta Comercial
 
 ### Glosário
 
