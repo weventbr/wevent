@@ -265,10 +265,6 @@ _Cancelamento via site_
  renan@wevent.com.br
  (48) 99900-2002
  
- Giancarlo Bianchin
- gian@wevent.com.br
- (48) 99151-4949
-   
    
  Wevent Gestão para Eventos Ltda.
  CNPJ 28.383.069/0001-60
