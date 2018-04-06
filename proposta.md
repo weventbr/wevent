@@ -200,7 +200,7 @@ Para ter acesso ao credenciamento, o usuário deve ter a permissão de **gestor*
 
 ##### _Em breve_
 
-_Aplicativo de credencimanto_
+_Credenciamento por subevento_
 
 ## Compra de Tickets
 
