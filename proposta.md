@@ -1,7 +1,6 @@
 
 # <img src="https://s3-sa-east-1.amazonaws.com/weventbr/wevent/public/logo_100.png"> Gestão de eventos
 
-Página de referência de funcionalidades de
 [WEvent](https://wevent.com.br). 
 
 Criciúma, 05 de abril de 2018
@@ -259,7 +258,7 @@ _Cancelamento via site_
  _10% sobre os ingressos comercializados_ 
 
 
- ## Contatos
+ ## Contato
  
  Renan Casagrande
  renan@wevent.com.br
