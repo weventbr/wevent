@@ -14,7 +14,7 @@ Criciúma, 05 de abril de 2018
  Aos Cuidados de 
  Merisandra
  
-A Wevent é uma plataforma de gestão de eventos que te permite criar um site exclusivo para o seu evento, realizar inscrições, vender ingressos, acompanhar tudo em tempo real e muito mais.
+A Wevent é uma plataforma de gestão de eventos que permite criar um site exclusivo para o seu evento, realizar inscrições, vender ingressos, acompanhar tudo em tempo real e muito mais.
 
 ## Funcionalidades
 
