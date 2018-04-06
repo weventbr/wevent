@@ -4,7 +4,19 @@
 Página de referência de funcionalidades de
 [WEvent](https://wevent.com.br). 
 
+Criciúma, 05 de abril de 2018
+
 # Proposta Comercial
+
+ À 
+ Universidade do Extremo Sul Catarinense
+ 
+ Aos Cuidados de 
+ Merisandra
+ 
+A Wevent é uma plataforma de gestão de eventos que te permite criar um site exclusivo para o seu evento, realizar inscrições, vender ingressos, acompanhar tudo em tempo real e muito mais.
+
+## Funcionalidades
 
 ### Glosário
 
@@ -229,3 +241,30 @@ _Cancelamento via site_
     * Apenas é permitido credenciar tickets
 * Avaliador
     * Apenas permitido avaliar trabalhos
+    
+  
+## Portfólio
+
+* ACIC - https://wevent.com.br/pactopelosul
+* SENAC - https://wevent.com.br/t2con
+  
+
+## Valores para aquisição
+
+ 10% sobre os ingressos comercializados 
+
+
+ ### Contatos
+ 
+ Renan Casagrande
+ renan@wevent.com.br
+ (48) 99900-2002
+ 
+ Giancarlo Bianchin
+ gian@wevent.com.br
+ (48) 99151-4949
+   
+   
+ Wevent Gestão para Eventos Ltda.
+ CNPJ 28.383.069/0001-60
+ Criciúma/SC - Brasil
