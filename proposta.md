@@ -28,7 +28,7 @@ A Wevent é uma plataforma de gestão de eventos que permite criar um site exclu
 
 Termos usados neste documento
 
-**subeventos** - Eventos menores dentro do evento principal. Este pode ser palestra, cursos, show, apresentação, item na programação entre outros
+**subeventos** - Eventos menores dentro do evento principal. Pode ser palestra, cursos, show, apresentação, item na programação entre outros
 
 **Ingresso** - Configuração de uma credencial de acesso a um evento. Pode ser conhecido como entrada, ingresso, credencial.
 
@@ -51,7 +51,7 @@ Uma submissão pode ser feita a partir de um arquivo ou(e) um formulário.
 * Modalidade
 * Área
 * Data início e final disponível para submissão
-* Vinculo de responsável por gerenciar essa submissão. Este irá receber todas atualizações (envios) da submissão.
+* Vínculo de responsável por gerenciar essa submissão. Este irá receber todas atualizações (envios) da submissão.
 * Limite por participante
     * Limita um número de submissão por participante
 * Limite de autores
@@ -67,7 +67,7 @@ Uma submissão pode ser feita a partir de um arquivo ou(e) um formulário.
 
 ##### _Em breve_
          
-_Número mínimo de avaliação para um resultado final_ 
+_Número mínimo de avaliações para um resultado final_ 
 
 _Agendamento de submissões em conjunto a programação do evento_
          
@@ -85,22 +85,22 @@ Permite configurar um template de certificado a ser enviado para os participante
 
 _Configuração de certificados para palestrantes_
  
-_Certificao específico para subeventos ou cursos dentro de um evento maior_
+_Certificado específico para subeventos ou cursos dentro de um evento maior_
 
 
 ## Ingressos
 
 Permite configurar os tipos de ingressos. Estes são replicados diretamente na página do evento.
-Este ingresso se transforma em ticket na efetuação de uma [compra](#compra-de-tickets) na pagina do evento.
+Este ingresso se transforma em ticket na efetivação de uma [compra](#compra-de-tickets) na página do evento.
 
 #### Configuração
 * Grátis, Pago
 * Nome de apresentação
 * Quantidade máxima de um tipo de ingresso
-* Datas de disponíbilidade
+* Datas de disponibilidade
 * Tipo de cobrança. 
     * Comprador paga a taxa. Cobrado do comprador o Valor do ingresso + Taxa aplicada pela WEvent
-    * Valor implícito. Comprador apenas o valor do ingresso e a taxa é descontada no repasse ao organizador.
+    * Valor implícito. Comprador paga apenas o valor do ingresso e a taxa é descontada no repasse ao organizador.
 
 ###### Observações
 
@@ -133,8 +133,8 @@ Tem a opção de enviar para todos que adquiriram um ticket ou estão credenciad
  
 ##### _Em breve_
 
-Envio de mensagens separando por campo do formulário de compra. Por exemplo: enviar mensagens para todos participantes que colocaram certa opção no formulário na compra de um ticket.
-Mensagens diretamente ao participantes de subeventos.
+_Envio de mensagens separando por campo do formulário de compra. Por exemplo: enviar mensagens para todos participantes que colocaram certa opção no formulário na compra de um ticket._
+_Mensagens diretamente ao participantes de subeventos._
 
 ## Configuração do evento
 
@@ -185,8 +185,6 @@ O usuário pode configurar a apresentação de uma página do evento via painel 
 * [Programação](#programacao)
 * Mapa de localização do evento
 
-##### _Em breve_
-
 ## Credenciamento
 
 
@@ -210,7 +208,7 @@ _Aplicativo de credencimanto_
 ### Processo
 1. A compra de tickets fica disponível na página principal do evento em forma de lista
 
-2. O comprador precisa colocar seu dados padrões e pode acrescentar outros dados nas configurações
+2. O comprador precisa colocar seus dados padrões e pode acrescentar outros dados nas configurações
 
 3. Em uma compra não gratuita, existe a possíbilidade de efetuar a compra com **cartão de crédito** ou **boleto bancário**
     
