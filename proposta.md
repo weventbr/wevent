@@ -8,6 +8,8 @@ Criciúma, 05 de abril de 2018
 
 # Proposta Comercial
 
+
+
  À 
  
  **Universidade do Extremo Sul Catarinense**
@@ -16,7 +18,9 @@ Criciúma, 05 de abril de 2018
  
  **Merisandra**
  
+ 
 A Wevent é uma plataforma de gestão de eventos que permite criar um site exclusivo para o seu evento, realizar inscrições, vender ingressos, acompanhar tudo em tempo real e muito mais.
+
 
 ## Funcionalidades
 
