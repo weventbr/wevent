@@ -233,7 +233,7 @@ _Cancelamento via site_
 
 
 
-## Usuários e permissoes
+## Usuários e permissões
 
 #### Tipos de "roles" do sistema
 * Gestor
