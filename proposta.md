@@ -1,5 +1,5 @@
 
-# <img src="https://s3-sa-east-1.amazonaws.com/weventbr/wevent/public/logo_100.png"> WEvent
+# <img src="https://s3-sa-east-1.amazonaws.com/weventbr/wevent/public/logo_100.png"> Gestão de eventos
 
 Página de referência de funcionalidades de
 [WEvent](https://wevent.com.br). 
