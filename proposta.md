@@ -10,11 +10,11 @@ Criciúma, 05 de abril de 2018
 
  À 
  
- Universidade do Extremo Sul Catarinense
+ **Universidade do Extremo Sul Catarinense**
  
  Aos Cuidados de 
  
- Merisandra
+ **Merisandra**
  
 A Wevent é uma plataforma de gestão de eventos que permite criar um site exclusivo para o seu evento, realizar inscrições, vender ingressos, acompanhar tudo em tempo real e muito mais.
 
