@@ -243,18 +243,18 @@ _Cancelamento via site_
     * Apenas permitido avaliar trabalhos
     
   
-## Portfólio
+# Portfólio
 
 * ACIC - https://wevent.com.br/pactopelosul
 * SENAC - https://wevent.com.br/t2con
   
 
-## Valores para aquisição
+# Valores para aquisição
 
- 10% sobre os ingressos comercializados 
+ _10% sobre os ingressos comercializados_ 
 
 
- ### Contatos
+ ## Contatos
  
  Renan Casagrande
  renan@wevent.com.br
