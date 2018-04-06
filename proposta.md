@@ -34,7 +34,7 @@ Termos usados neste documento
 
 **Ticket** - Ingresso comprado
  
-**Apoiador** - Apoiador, Patrocinador, Organizador entre outros
+**Apoiador** - Apoiador, Patrocinador, Organizador, entre outros
  
 **Projeto** - Contempla o evento e toda configuração e gestão do mesmo
 
@@ -67,7 +67,9 @@ Uma submissão pode ser feita a partir de um arquivo ou(e) um formulário.
 
 ##### _Em breve_
          
-_Número mínimo de avaliação para um resultado final_         
+_Número mínimo de avaliação para um resultado final_ 
+
+_Agendamento de submissões em conjunto a programação do evento_
          
 
 ## Certificados
@@ -85,12 +87,10 @@ _Configuração de certificados para palestrantes_
  
 _Certificao específico para subeventos ou cursos dentro de um evento maior_
 
-_Agendamento de submissões em conjunto a programação do evento_
-
 
 ## Ingressos
 
-Permite configura os tipos de ingressos. Estes são replicados diretamente na pagina do evento.
+Permite configurar os tipos de ingressos. Estes são replicados diretamente na página do evento.
 Este ingresso se transforma em ticket na efetuação de uma [compra](#compra-de-tickets) na pagina do evento.
 
 #### Configuração
@@ -99,12 +99,12 @@ Este ingresso se transforma em ticket na efetuação de uma [compra](#compra-de-
 * Quantidade máxima de um tipo de ingresso
 * Datas de disponíbilidade
 * Tipo de cobrança. 
-    * Comprador paga a taxa. Cobrado do comprador a Valor do ingresso + Taxa aplicada pela wevent
+    * Comprador paga a taxa. Cobrado do comprador o Valor do ingresso + Taxa aplicada pela WEvent
     * Valor implícito. Comprador apenas o valor do ingresso e a taxa é descontada no repasse ao organizador.
 
 ###### Observações
 
-    A configuração de lotes é feita por datas de disponíbilidade  
+    A configuração de lotes é feita por datas de disponibilidade  
 
     
 ##### _Em breve_
@@ -114,21 +114,21 @@ _Subtipos de ingressos, lotes "físicos"_
 
 ## Programação
 
-Programação completa do evento. A programação irá aparecer na pagina principal do evento.
+Programação completa do evento. A programação irá aparecer na página principal do evento.
 Ela pode ser configurada nas configurações de um projeto
 
 
 ##### _Em breve_
 
-_Vinculo de uma programação com um ingresso. O usuário poderá criar um ingresso para um subeventos, ou colocar com adicionais de um ingresso, subeventos_
+_Vínculo de uma programação com um ingresso. O usuário poderá criar um ingresso para subeventos, ou colocar com adicionais de um ingresso, subeventos_
 
-_Organizar um subevento com apresentação de trabalhos enviados de forma de submissão_
+_Organizar um subevento com apresentação de trabalhos enviados na forma de submissão_
 
 
 ## Mensagens 
     
 Permite o envio de mensagens diretamente aos participantes de um evento
-A mensagem pode ser tem texto ou formato HTML
+A mensagem pode ser em texto ou formato HTML
 Tem a opção de enviar para todos que adquiriram um ticket ou estão credenciados. E também pode adicionar emails como cópia desta mensagem. 
  
 ##### _Em breve_
@@ -136,22 +136,22 @@ Tem a opção de enviar para todos que adquiriram um ticket ou estão credenciad
 Envio de mensagens separando por campo do formulário de compra. Por exemplo: enviar mensagens para todos participantes que colocaram certa opção no formulário na compra de um ticket.
 Mensagens diretamente ao participantes de subeventos.
 
-## Confguração do evento
+## Configuração do evento
 
 
 #### Configuração
 * Nome do evento
 * Data e hora do início do evento
 * Data final do evento (quando necessário)
-* Url do evento wevento.com.br/**URL**
+* Url do evento wevent.com.br/**URL**
     * Por padrão essa URL ficará disponível 6 meses depois do evento, mas pode ter um tratamento especial
 * Página do evento, sendo explicada melhor no bloco [Página do evento](#pagina-do-evento)
 * Hashtag oficial a ser usada nas redes sociais
 * Endereço de um evento
-    * Será mostrado um mapa na pagina principal do evento
+    * Será mostrado um mapa na página principal do evento
     * Também será possível identificar uma rota para o evento
 * Redes sociais para mais informações do evento
-    * Nestas redes inluiem telefone e email
+    * Nestas redes incluem telefone e email
 
 
 
@@ -159,7 +159,7 @@ Mensagens diretamente ao participantes de subeventos.
 
 ## Página do evento
 
-O usuário pode configurar a apresentação de uma pagina do evento via painel de controle no admin do sistema.
+O usuário pode configurar a apresentação de uma página do evento via painel de controle no admin do sistema.
 
 
 #### Configuração
@@ -197,7 +197,7 @@ Para ter acesso ao credenciamento, o usuário deve ter a permissão de **gestor*
         Na sessão Credenciamento no painel o credenciador pode inserir o código para efetivar um credenciamento 
     * QRCode
         * O credenciamento é feito via celular, com um browser ou um aplicativo de leitura de QRCode
-        * Este é direcionado para a pagina do evento o qual efetua o credenciamento ou o não credenciamento de um ticket
+        * Este é direcionado para a página do evento o qual efetua o credenciamento ou o não credenciamento de um ticket
 
 
 ##### _Em breve_
@@ -208,22 +208,22 @@ _Aplicativo de credencimanto_
 
 
 ### Processo
-1. A compra de tickets fica disponível na pagina principal do evento em forma de lista
+1. A compra de tickets fica disponível na página principal do evento em forma de lista
 
-2. O comprador precisa colocar seu dados padrões e pode se acrescentar outros dados nas configurações
+2. O comprador precisa colocar seu dados padrões e pode acrescentar outros dados nas configurações
 
-3. Em uma compra não gratuita, tem a possíbilidade de efetuar a compra com **cartão de crédito** ou **boleto bancário**
+3. Em uma compra não gratuita, existe a possíbilidade de efetuar a compra com **cartão de crédito** ou **boleto bancário**
     
         Boleto fica disponível até 3 dias úteis antes do evento.
     
-4. O comprador recebe um email com o código alfanuméirco e um qrcode ao finalizar a compra
+4. O comprador recebe um email com o código alfanumérico e um qrcode ao finalizar a compra
 
         O cancelamento de um ingresso é feito via e-mail do evento.
 
 #### Configuração
-* Na sessão [Ingressos](#ingressos) pode-se configurar um tipo de ingresso e sua disponíbiliadde
-* Pode se determinar um formuário para compra de um ticket em **campos do cadastro**
-* Se tem a opção de apenas permitir apenas uma compra ou multipla compra por cadastro
+* Na sessão [Ingressos](#ingressos) pode configurar um tipo de ingresso e sua disponíbilidade
+* Pode determinar um formuário para compra de um ticket em **campos do cadastro**
+* Existe a opção de permitir apenas uma compra ou multipla compra por cadastro
     
 
 
